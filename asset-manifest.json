@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tour-Package-v.0.1/static/css/main.0a84188e.css",
+    "main.js": "/Tour-Package-v.0.1/static/js/main.cee42deb.js",
+    "index.html": "/Tour-Package-v.0.1/index.html",
+    "main.0a84188e.css.map": "/Tour-Package-v.0.1/static/css/main.0a84188e.css.map",
+    "main.cee42deb.js.map": "/Tour-Package-v.0.1/static/js/main.cee42deb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a84188e.css",
+    "static/js/main.cee42deb.js"
+  ]
+}
